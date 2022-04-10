@@ -1,4 +1,3 @@
-avoid
 brown
 dog
 fox
@@ -6,6 +5,4 @@ jumps
 lazy
 over
 quick
-squirrel
 the
-to

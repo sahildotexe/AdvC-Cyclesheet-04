@@ -1,4 +1,3 @@
-// Write a program to count the vowels in free text given as standard input. Read text one character at a time until you encounter end-of-data. Then print out the number of occurrences of each of these vowels.
 
 #include <stdio.h>
 #include <string.h>

@@ -1,1 +1,0 @@
-// Write a program to display the content of a Text File which means it will behave like TYPE command in DOS.

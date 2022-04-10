@@ -1,4 +1,4 @@
-// Write a program to copy one file to another such that every word is reversed before being written to the target file.Assume the maximum size of each word is 10 characters and each word is separated either by new line(s), tab(s) or space(s).For example, if source file contains "I am an Indian", the target file should contain "I ma na naidnl".
+
 
 #include <stdio.h>
 #include <string.h>
